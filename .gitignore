@@ -1,0 +1,70 @@
+# =========================
+# Node.js
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# =========================
+# Playwright
+# =========================
+playwright-report/
+playwright/.cache/
+test-results/
+blob-report/
+report/
+reports/
+html-report/
+
+# Screenshots & videos (if generated during tests)
+test-results/
+screenshots/
+videos/
+trace/
+traces/
+
+# Playwright traces
+*.zip
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+!.env.example
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Coverage
+# =========================
+coverage/
+.nyc_output/
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# =========================
+# OS files
+# =========================
+Thumbs.db
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
