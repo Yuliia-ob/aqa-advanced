@@ -1,0 +1,25 @@
+{
+  "name": "aqa-advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuliia-ob/aqa-advanced.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yuliia-ob/aqa-advanced/issues"
+  },
+  "homepage": "https://github.com/Yuliia-ob/aqa-advanced#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "git": "^0.1.5"
+  }
+}
